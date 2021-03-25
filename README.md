@@ -6,6 +6,6 @@
 - 🎓 I'm teacher. So, I love teaching things (what I know) to people who want to learn
 - 🛠 I'm ready to get a new job
 
-For future information :
+For future information, you can say hello :
 - [LinkedIn](https://www.linkedin.com/in/aldysetiaa)
 - [Instagram](https://www.instagram.com/aldysetiaa/)
