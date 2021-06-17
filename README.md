@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Aldy
-
+![](https://komarev.com/ghpvc/?username=aldysetiaa&color=brightgreen)
 - 🔭 I’m currently working on PT. KRNG Indonesia and Leader Project Consultant at PT. Sentra Karya Logistik  
 - 💻 I'm developer. So, I'm fullstack web and mobile developer
 - 📖 I'm student. So, I like to learn new things.
