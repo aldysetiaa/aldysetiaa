@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Aldy
 ![](https://komarev.com/ghpvc/?username=aldysetiaa&color=brightgreen)
-- 🔭 I’m currently working on PT. KRNG Indonesia and Leader Project Consultant at PT. Sentra Karya Logistik  
+- 🔭 I’m currently working on PT. Adis Dimension Footwear as Digitalization Analyst Human Capital
+- 🛠 The last working at PT. KRNG Indonesia as Human Resource and IT Lead,  and freelancer Leader IT at PT. Sentra Karya Logistik
 - 💻 I'm developer. So, I'm fullstack web and mobile developer
 - 📖 I'm student. So, I like to learn new things.
 - 🎓 I'm teacher. So, I love teaching things (what I know) to people who want to learn
