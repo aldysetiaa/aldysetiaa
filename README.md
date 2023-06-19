@@ -8,7 +8,7 @@
 - 🛠 I'm ready to get a new job
 
 For future information, you can say hello :
-- [WA](https://api.whatsapp.com/send/?phone=6285721934134&text=Hello)
+- [WA](https://wa.me/6285721934134&text=Hello)
 - [LinkedIn](https://www.linkedin.com/in/aldysetiaa)
 - [Instagram](https://www.instagram.com/aldysetiaa/)
 - [Youtube : Code Majority](https://www.youtube.com/channel/UChniI_C8zxNzd9-phn_GREw)
