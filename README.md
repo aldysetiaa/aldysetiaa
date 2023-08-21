@@ -12,5 +12,4 @@ For future information, you can say hello :
 - [LinkedIn](https://www.linkedin.com/in/aldysetiaa)
 - [Instagram](https://www.instagram.com/aldysetiaa/)
 - [Youtube : Code Majority](https://www.youtube.com/channel/UChniI_C8zxNzd9-phn_GREw)
-
-- [CIQ](https://intl-web.ifuli.cn/api/auth/login-by-account?)
+ 
